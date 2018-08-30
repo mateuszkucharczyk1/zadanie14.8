@@ -57,4 +57,3 @@ App = React.createClass({
     );
   }
 });
-© 2018 GitHub, Inc.
